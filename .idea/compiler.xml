@@ -6,9 +6,41 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="litemall-core" />
+        <module name="kafka-api" />
+        <module name="litemall-admin-api" />
+        <module name="springboot-rabbit-consumer" />
+        <module name="gupaoedu-vip-springboot-demo" />
+        <module name="gupaoedu-vip-spring-rabbitmq" />
+        <module name="litemall-db" />
+        <module name="gupaoedu-vip-springboot-amqp" />
+        <module name="multi-file-transfer" />
+        <module name="kafka-springboot" />
         <module name="jenkins-demo" />
-        <module name="mutil-file-transfer" />
+        <module name="gupaoedu-vip-rabbitmq-javaapi" />
+        <module name="litemall-all" />
+        <module name="springboot-rabbit-producer" />
+        <module name="multi-file-transfer (2)" />
+        <module name="litemall-wx-api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="framework-nio" target="1.5" />
+      <module name="multi-file-transfer (2)" target="1.8" />
+      <module name="mutil-file-transfer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gupaoedu-vip-springboot-amqp" options="-parameters" />
+      <module name="gupaoedu-vip-springboot-demo" options="-parameters" />
+      <module name="litemall-admin-api" options="-parameters" />
+      <module name="litemall-all" options="-parameters" />
+      <module name="litemall-core" options="-parameters" />
+      <module name="litemall-db" options="-parameters" />
+      <module name="litemall-wx-api" options="-parameters" />
+      <module name="springboot-rabbit-consumer" options="-parameters" />
+      <module name="springboot-rabbit-producer" options="-parameters" />
+    </option>
   </component>
 </project>

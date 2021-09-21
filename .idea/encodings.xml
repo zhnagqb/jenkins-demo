@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../OnlineStoreAndPaimai" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OnlineStoreAndPaimai/litemall-admin-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OnlineStoreAndPaimai/litemall-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OnlineStoreAndPaimai/litemall-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OnlineStoreAndPaimai/litemall-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OnlineStoreAndPaimai/litemall-wx-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../mutil-file-transfer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../kafkaWorkspace/kafka-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../multi-file-transfer" charset="UTF-8" />
+    <file url="file://D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-springboot-amqp" charset="UTF-8" />
+    <file url="file://D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-springboot-demo" charset="UTF-8" />
+    <file url="file://D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-springboot-project/springboot-rabbit-consumer" charset="UTF-8" />
+    <file url="file://D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-springboot-project/springboot-rabbit-producer" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -3,13 +3,22 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../multi-file-transfer" />
     <file type="web" url="file://$PROJECT_DIR$/../mutil-file-transfer" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../mutil-file-transfer/pom.xml" />
+        <option value="$PROJECT_DIR$/../multi-file-transfer/pom.xml" />
+        <option value="D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-rabbitmq-javaapi/pom.xml" />
+        <option value="D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-spring-rabbitmq/pom.xml" />
+        <option value="D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-springboot-amqp/pom.xml" />
+        <option value="D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-springboot-demo/pom.xml" />
+        <option value="D:/studyGupao/rabbitmqWorkSpace/gupaoedu-vip-springboot-project/pom.xml" />
+        <option value="$PROJECT_DIR$/../OnlineStoreAndPaimai/pom.xml" />
+        <option value="$PROJECT_DIR$/../kafkaWorkspace/kafka-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../kafkaWorkspace/kafka-springboot/pom.xml" />
       </list>
     </option>
   </component>
